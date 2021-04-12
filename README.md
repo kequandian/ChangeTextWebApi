@@ -1,5 +1,5 @@
 
-### 本地IIS6服务 建立Microsoft.Office.Interop.Word.Application时出现“拒绝访问”错误的解决方法   [参考文档](https://www.cnblogs.com/firstyi/articles/1277307.html)
+### win7 本地 IIS6服务 建立Microsoft.Office.Interop.Word.Application时出现“拒绝访问”错误的解决方法   [参考文档](https://www.cnblogs.com/firstyi/articles/1277307.html)
 
   - 1 
     - 在IIS管理器 -> 应用程序池 -> 选择对应项目池子右键 -> 高级设置 -> 标识 -> 内置账号设置为 LocalSystem
