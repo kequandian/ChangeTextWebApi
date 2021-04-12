@@ -1,4 +1,30 @@
 
+## API
+### 修改表格指定位置内容
+```
+POST /api/ChangeTextInCell/ChangeText
+
+{
+    "docUrl": "", //文件地址
+    "rowIndex": 3, //第几行
+    "columnIndex": 3, //第几列
+    "content": "  测试123456" //修改的内容
+}
+
+```
+
+### word 转 pdf
+```
+POST /api/WordToPdf/WToP
+
+{
+    "sourcedocx":"", //word 文件路劲
+    "targetpdf":"" //保存pdf文件路劲
+}
+```
+
+
+## 常见问题
 ### win7 本地 IIS6服务 建立Microsoft.Office.Interop.Word.Application时出现“拒绝访问”错误的解决方法   [参考文档](https://www.cnblogs.com/firstyi/articles/1277307.html)
 
   - 1 

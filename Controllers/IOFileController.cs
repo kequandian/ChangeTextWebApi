@@ -16,10 +16,14 @@ namespace ChangeText.WebApi.Controllers
         [HttpGet]
         public HttpResponseMessage DownloadFile(string fn)
         {
-
+            string fileName = fn;
             try
             {
-                string fileName = string.Format("{0}.pdf", fn);
+                if(fileName.LastIndexOf(".") == -1)
+                {
+                    fileName = string.Format("{0}.pdf", fn);
+                }
+                
                 //string filePath = HttpContext.Current.Server.MapPath("~/") + "FileRoot\\" + "ReportTemplate.xlsx";
                 
                 string filePath = "D:\\workspace2015\\docxFile\\" + fileName;//测试下载的路劲
