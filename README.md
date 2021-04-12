@@ -23,6 +23,16 @@ POST /api/WordToPdf/WToP
 }
 ```
 
+### word 转 pdf
+```
+get /api/IOFile/DownloadFile?fn="文件名字"
+
+{
+    "sourcedocx":"", //word 文件路劲
+    "targetpdf":"" //保存pdf文件路劲
+}
+```
+
 
 ## 常见问题
 ### win7 本地 IIS6服务 建立Microsoft.Office.Interop.Word.Application时出现“拒绝访问”错误的解决方法   [参考文档](https://www.cnblogs.com/firstyi/articles/1277307.html)
