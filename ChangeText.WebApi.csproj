@@ -226,6 +226,7 @@
     <Compile Include="Controllers\ApiHandle\ReadWordFileHandle.cs" />
     <Compile Include="Controllers\ApiHandle\WordToPDFHandle.cs" />
     <Compile Include="Controllers\ApiHandle\WriteWordTableHandle.cs" />
+    <Compile Include="Controllers\IOFileController.cs" />
     <Compile Include="Controllers\WordToPdfController.cs" />
     <Compile Include="Controllers\ReadWordFileController.cs" />
     <Compile Include="Controllers\ChangeTextInCellController.cs" />

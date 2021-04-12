@@ -100,7 +100,6 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.Razor.resour
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.csprojAssemblyReference.cache
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.csproj.CoreCompileInputs.cache
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.csproj.CopyComplete
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.dll
