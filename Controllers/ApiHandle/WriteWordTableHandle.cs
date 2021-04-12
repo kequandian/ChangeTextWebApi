@@ -6,7 +6,7 @@ using DocumentFormat.OpenXml.Wordprocessing;
 
 namespace ChangeText.WebApi.Controllers
 {
-    public class WriteWordTable
+    public class WriteWordTableHandle
     {
         public void ChangeTextInCell(ChangeTextData ctData)
         {

@@ -21,7 +21,7 @@ namespace ChangeText.WebApi.Controllers
 
             try
             {
-                WriteWordTable writeWordTable = new WriteWordTable();
+                WriteWordTableHandle writeWordTable = new WriteWordTableHandle();
                 writeWordTable.ChangeTextInCell(ctData);
             }
             catch (Exception ex)

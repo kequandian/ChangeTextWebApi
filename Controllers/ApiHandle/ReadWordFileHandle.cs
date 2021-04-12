@@ -9,7 +9,7 @@ using System.Linq;
 
 namespace docx.openxml
 {
-    public class ReadWordFile
+    public class ReadWordFileHandle
     {
         public void ReadWordTableToSave(string filePath)
         {

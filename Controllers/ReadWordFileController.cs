@@ -18,7 +18,7 @@ namespace ChangeText.WebApi.Controllers
 
             try
             {
-                ReadWordFile readWordFile = new ReadWordFile();
+                ReadWordFileHandle readWordFile = new ReadWordFileHandle();
                 readWordFile.ReadWordTableToSave(fp.FilePath);
 
             }

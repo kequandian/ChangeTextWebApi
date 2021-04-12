@@ -223,8 +223,9 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\ApiHandle\ReadWordFile.cs" />
-    <Compile Include="Controllers\ApiHandle\WriteWordTable.cs" />
+    <Compile Include="Controllers\ApiHandle\ReadWordFileHandle.cs" />
+    <Compile Include="Controllers\ApiHandle\WordToPDFHandle.cs" />
+    <Compile Include="Controllers\ApiHandle\WriteWordTableHandle.cs" />
     <Compile Include="Controllers\WordToPdfController.cs" />
     <Compile Include="Controllers\ReadWordFileController.cs" />
     <Compile Include="Controllers\ChangeTextInCellController.cs" />
