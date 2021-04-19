@@ -13,7 +13,7 @@ POST /api/ChangeTextInCell/ChangeText
 
 ```
 
-### word 转 pdf
+### word 转 pdf (测试中)
 ```
 POST /api/WordToPdf/WToP
 
@@ -23,14 +23,32 @@ POST /api/WordToPdf/WToP
 }
 ```
 
-### word 转 pdf
+### word 转 pdf 
 ```
 get /api/IOFile/DownloadFile?fn="文件名字"
 
+```
+
+### word 转 html 
+```
+post /api/ConvertToHtml/ToHtml
+
 {
-    "sourcedocx":"", //word 文件路劲
-    "targetpdf":"" //保存pdf文件路劲
+    "sourcedocx":"word文档路径",
+    "targetDirectory":"保存的文件夹路径"
 }
+
+```
+
+### html 转 pdf 
+```
+post /api/ConvertToPdf/ToPdf
+
+{
+    "sourceHtml":"word文档路径",
+    "targetPdf":"pdf文档路径"
+}
+
 ```
 
 
