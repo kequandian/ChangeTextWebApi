@@ -43,6 +43,7 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Extensions.Options.dl
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Extensions.Primitives.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Web.Infrastructure.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Newtonsoft.Json.dll
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\OpenXmlPowerTools.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Remotion.Linq.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Collections.Immutable.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
@@ -60,7 +61,6 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.WebPages.Deployment.
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.WebPages.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.WebPages.Razor.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\WebGrease.dll
-D:\workspace2015\C\openxml\ChangeText.WebApi\bin\DocumentFormat.OpenXml.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Google.Protobuf.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.EntityFrameworkCore.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.EntityFrameworkCore.Relational.xml
