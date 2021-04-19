@@ -45,6 +45,7 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Web.Infrastructure.dl
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Newtonsoft.Json.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\OpenXmlPowerTools.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Remotion.Linq.dll
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Select.HtmlToPdf.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Collections.Immutable.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Interactive.Async.dll
@@ -73,6 +74,7 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Extensions.Logging.Ab
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Extensions.Options.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Microsoft.Extensions.Primitives.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Remotion.Linq.xml
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Select.HtmlToPdf.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Collections.Immutable.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Interactive.Async.xml
@@ -100,6 +102,7 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.Razor.resour
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Select.Html.dep
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.csproj.CoreCompileInputs.cache
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.csproj.CopyComplete
 D:\workspace2015\C\openxml\ChangeText.WebApi\obj\Debug\ChangeText.WebApi.dll

@@ -94,6 +94,9 @@
     <Reference Include="Remotion.Linq, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
       <HintPath>..\docx.openxml\packages\Remotion.Linq.2.1.1\lib\net45\Remotion.Linq.dll</HintPath>
     </Reference>
+    <Reference Include="Select.HtmlToPdf, Version=20.2.0.0, Culture=neutral, PublicKeyToken=e0ae9f6e27a97018, processorArchitecture=MSIL">
+      <HintPath>..\docx.openxml\packages\Select.HtmlToPdf.20.2.0\lib\net40\Select.HtmlToPdf.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\docx.openxml\packages\System.Collections.Immutable.1.3.0\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
@@ -232,12 +235,14 @@
     <Compile Include="Controllers\ApiHandle\ReadWordFileHandle.cs" />
     <Compile Include="Controllers\ApiHandle\WordToPDFHandle.cs" />
     <Compile Include="Controllers\ApiHandle\WriteWordTableHandle.cs" />
+    <Compile Include="Controllers\ConvertToPdfController.cs" />
     <Compile Include="Controllers\ConvertToHtmlController.cs" />
     <Compile Include="Controllers\IOFileController.cs" />
     <Compile Include="Controllers\WordToPdfController.cs" />
     <Compile Include="Controllers\ReadWordFileController.cs" />
     <Compile Include="Controllers\ChangeTextInCellController.cs" />
     <Compile Include="Models\PositionInfo.cs" />
+    <Compile Include="Models\HtmlToPdfData.cs" />
     <Compile Include="Models\WordToHtmlData.cs" />
     <Compile Include="Models\WordToPdfData.cs" />
     <Compile Include="utils\ApiTools.cs" />

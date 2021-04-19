@@ -1,6 +1,7 @@
 ﻿using ChangeText.WebApi.Models;
 using DocumentFormat.OpenXml.Packaging;
 using OpenXmlPowerTools;
+using SelectPdf;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -170,6 +171,18 @@ namespace ChangeText.WebApi.Controllers.ApiHandle
         }
 
 
+        public void HtmlToPdf(HtmlToPdfData htp)
+        {
+            HtmlToPdf toPdf = new HtmlToPdf();
+            toPdf.Options.PdfPageSize = PdfPageSize.A4;
+            toPdf.Options.MarginRight = 3;
+            toPdf.Options.MarginLeft = 3;
+
+            PdfDocument pdf = toPdf.ConvertUrl(htp.SourceHtml);
+
+            pdf.Save(htp.TargetPdf);
+            pdf.Close();
+        }
 
 
     }
