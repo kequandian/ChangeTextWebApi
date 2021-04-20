@@ -52,7 +52,9 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Interactive.Async.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Net.Http.Formatting.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Cors.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Helpers.dll
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Http.Cors.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Http.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Http.WebHost.dll
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Mvc.dll
@@ -79,6 +81,7 @@ D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Collections.Immutable.xm
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Interactive.Async.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Http.Cors.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\Newtonsoft.Json.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Net.Http.Formatting.xml
 D:\workspace2015\C\openxml\ChangeText.WebApi\bin\System.Web.Helpers.xml
